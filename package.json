@@ -1,5 +1,6 @@
 {
   "scripts":{
+  "start": "node app.js" "scripts",
   "test": "git checkout chinook.db ./node_modules/jest/bin/jest.js"
   },
   "dependencies": {
